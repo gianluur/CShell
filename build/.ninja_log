@@ -1,0 +1,6 @@
+# ninja log v6
+1	43	1757371729608601805	CMakeFiles/CShell.dir/src/utils.c.o	246db7c97a0d6eb7
+1	44	1757371729607308993	CMakeFiles/CShell.dir/src/builtins.c.o	66aa61d07154984f
+1	57	1757371729608403124	CMakeFiles/CShell.dir/src/main.c.o	450d5d0fe779bcdf
+1	21	1757371750737396984	CMakeFiles/CShell.dir/src/history/history.c.o	7f92b76d99a0a586
+21	40	1757371750757397067	CShell	a6a72f0bfe36ded8

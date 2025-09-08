@@ -1,0 +1,7 @@
+ls
+mkdir test
+touch file
+quit
+ls
+historyls
+history

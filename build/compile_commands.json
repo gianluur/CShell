@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/gianluca/Development/C/shell/build",
+  "command": "/usr/lib64/ccache/gcc -g -o CMakeFiles/CShell.dir/src/builtins.c.o -c /home/gianluca/Development/C/shell/src/builtins.c",
+  "file": "/home/gianluca/Development/C/shell/src/builtins.c",
+  "output": "CMakeFiles/CShell.dir/src/builtins.c.o"
+},
+{
+  "directory": "/home/gianluca/Development/C/shell/build",
+  "command": "/usr/lib64/ccache/gcc -g -o CMakeFiles/CShell.dir/src/history/history.c.o -c /home/gianluca/Development/C/shell/src/history/history.c",
+  "file": "/home/gianluca/Development/C/shell/src/history/history.c",
+  "output": "CMakeFiles/CShell.dir/src/history/history.c.o"
+},
+{
+  "directory": "/home/gianluca/Development/C/shell/build",
+  "command": "/usr/lib64/ccache/gcc -g -o CMakeFiles/CShell.dir/src/main.c.o -c /home/gianluca/Development/C/shell/src/main.c",
+  "file": "/home/gianluca/Development/C/shell/src/main.c",
+  "output": "CMakeFiles/CShell.dir/src/main.c.o"
+},
+{
+  "directory": "/home/gianluca/Development/C/shell/build",
+  "command": "/usr/lib64/ccache/gcc -g -o CMakeFiles/CShell.dir/src/utils.c.o -c /home/gianluca/Development/C/shell/src/utils.c",
+  "file": "/home/gianluca/Development/C/shell/src/utils.c",
+  "output": "CMakeFiles/CShell.dir/src/utils.c.o"
+}
+]
